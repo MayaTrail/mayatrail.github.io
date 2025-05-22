@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to MayaTrail on MayaTrail</title>
-    <link>http://localhost:1313/</link>
+    <link>http://mayatrail.github.io/</link>
     <description>Recent content in Welcome to MayaTrail on MayaTrail</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
     <lastBuildDate>Tue, 27 Feb 2024 09:30:56 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mayatrail.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is MayaTrail</title>
-      <link>http://localhost:1313/blog/what-is-mayatrail/</link>
+      <link>http://mayatrail.github.io/blog/what-is-mayatrail/</link>
       <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
-      <guid>http://localhost:1313/blog/what-is-mayatrail/</guid>
+      <guid>http://mayatrail.github.io/blog/what-is-mayatrail/</guid>
       <description>&lt;p&gt;Coming soon!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/docs/guides/introduction/</link>
+      <link>http://mayatrail.github.io/docs/guides/introduction/</link>
       <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
-      <guid>http://localhost:1313/docs/guides/introduction/</guid>
+      <guid>http://mayatrail.github.io/docs/guides/introduction/</guid>
       <description></description>
     </item>
     <item>
       <title>Resources</title>
-      <link>http://localhost:1313/docs/resources/</link>
+      <link>http://mayatrail.github.io/docs/resources/</link>
       <pubDate>Tue, 27 Feb 2024 09:30:56 +0100</pubDate>
-      <guid>http://localhost:1313/docs/resources/</guid>
+      <guid>http://mayatrail.github.io/docs/resources/</guid>
       <description>&lt;p&gt;Link to valuable, relevant resources.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy/</link>
+      <link>http://mayatrail.github.io/privacy/</link>
       <pubDate>Thu, 07 Sep 2023 17:19:07 +0200</pubDate>
-      <guid>http://localhost:1313/privacy/</guid>
+      <guid>http://mayatrail.github.io/privacy/</guid>
       <description></description>
     </item>
   </channel>

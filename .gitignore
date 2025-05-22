@@ -1,0 +1,12 @@
+.codesandbox/
+.devcontainer/
+.gitpod.yml
+.hugo_build.lock
+.idea/
+.npmignore
+.npmrc
+.prettierignore
+.prettierrc.yaml
+.vscode/
+LICENSE
+node_modules/
